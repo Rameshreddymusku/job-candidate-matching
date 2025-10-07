@@ -6,3 +6,8 @@ numpy==2.1.1
 pandas==2.2.2
 sentence-transformers==3.0.1
 torch>=2.2.0
+python-docx
+docx2txt
+pypdf
+PyMuPDF
+
